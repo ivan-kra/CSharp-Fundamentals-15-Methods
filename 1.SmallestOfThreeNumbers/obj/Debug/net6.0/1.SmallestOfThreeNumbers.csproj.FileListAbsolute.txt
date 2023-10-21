@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\bin\Debug\net6.0\1.SmallestOfThreeNumbers.exe
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\bin\Debug\net6.0\1.SmallestOfThreeNumbers.deps.json
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\bin\Debug\net6.0\1.SmallestOfThreeNumbers.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\bin\Debug\net6.0\1.SmallestOfThreeNumbers.dll
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\bin\Debug\net6.0\1.SmallestOfThreeNumbers.pdb
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.dll
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\refint\1.SmallestOfThreeNumbers.dll
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.pdb
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\1.SmallestOfThreeNumbers.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\15 Methods - Exercise\Problems\MethodsExercise\1.SmallestOfThreeNumbers\obj\Debug\net6.0\ref\1.SmallestOfThreeNumbers.dll
